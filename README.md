@@ -1,4 +1,3 @@
-https://www.facebook.com/photo/?fbid=618055497466005&set=a.110308404907386
 <h1 align="center">Hi 👋, I'm Naimur</h1>
 <h3 align="center">A passionate B2B Lead Generation, Digital Marketing from Bangladesh</h3>
 
