@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naimur</h1>
-<h3 align="center">A passionate B2B Lead Generation, Digital Marketing from Bangladesh</h3>
+<h3 align="center">A passionate B2B Lead Generation, Digital Marketer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur320&label=Profile%20views&color=0e75b6&style=flat" alt="naimur320" /> </p>
 
